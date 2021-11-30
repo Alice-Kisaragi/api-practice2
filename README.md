@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# 自己紹介サイト
+
+### **荒川 直樹  (あらかわ なおき)**
+- a
+- b
+- c
+- d
+
+
 
 You can use the [editor on GitHub](https://github.com/Alice-Kisaragi/api-practice2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
