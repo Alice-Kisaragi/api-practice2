@@ -29,5 +29,3 @@ SNS
 - [YouTube  開志専門職大学](https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A)
 
 
-
-You can use the [editor on GitHub](https://github.com/Alice-Kisaragi/api-practice2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
