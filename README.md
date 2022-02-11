@@ -1,10 +1,18 @@
 # 自己紹介サイト
 
-### **荒川 直樹  (あらかわ なおき)**
+## **荒川 直樹  (あらかわ なおき)**
+### ~~~ Profile ~~~
 - 20001年10月15日生まれ
-- 開志専門職大学 情報学科
-- c
+- 開志専門職大学 情報学部
+
+
+### ~~~ 大学について ~~~
+大学名：開志専門職大学 
+SNS
+- Twitter：https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+- HP：https://kaishi-pu.ac.jp
 - d
+- https://www.google.com/maps/place/開志専門職大学+古町ルフルキャンパス/@37.9229165,139.0454626,15z/data=!4m5!3m4!1s0x0:0xe443a08c19587fa7!8m2!3d37.9229165!4d139.0454626
 
 
 
