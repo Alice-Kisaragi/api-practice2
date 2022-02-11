@@ -2,8 +2,8 @@
 
 ## **荒川 直樹  (あらかわ なおき)**
 ### ~~~ Profile ~~~
-- 20001年10月15日生まれ
-- 開志専門職大学 情報学部
+- 生年月日：20001年10月15日
+- 所属：開志専門職大学 情報学部
 
 
 ### ~~~ 大学について ~~~
@@ -16,15 +16,15 @@
 - アニメ・マンガ学部
 
 場所
-- 紫竹山キャンパス（事業創造学部)：新潟市中央区紫竹山6-3-5
-- 米山キャンパス（情報学部）：新潟市中央区米山3-1-53
-- 古町ルフルキャンパス（アニメ・マンガ学部）：新潟市中央区古町7-1010
+- 紫竹山キャンパス（事業創造学部)：[新潟市中央区紫竹山6-3-5](https://www.google.com/maps/place/開志専門職大学+紫竹山キャンパス/@37.8972699,139.0641602,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c975ac09549b:0x3ef6747f69cc7e74!8m2!3d37.8972699!4d139.0663489)
+- 米山キャンパス（情報学部）：[新潟市中央区米山3-1-53](https://www.google.com/maps/place/開志専門職大学+米山キャンパス/@37.9082027,139.0595338,17z/data=!3m1!4b1!4m5!3m4!1s0x5ff4c90103472417:0x3d0e6e934f1dd9f8!8m2!3d37.9082027!4d139.0617225)
+- 古町ルフルキャンパス（アニメ・マンガ学部）：[新潟市中央区古町7-1010](https://www.google.com/maps/place/開志専門職大学+古町ルフルキャンパス/@37.9229165,139.0454626,15z/data=!4m5!3m4!1s0x0:0xe443a08c19587fa7!8m2!3d37.9229165!4d139.0454626)
 
 
 SNS
-- Twitter：https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-- HP：https://kaishi-pu.ac.jp
-- YouTube：https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A
+- [Twitter](https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [HP](https://kaishi-pu.ac.jp)
+- [YouTube](https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A)
 
 
 
@@ -39,19 +39,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://kaishi-pu.ac.jp)
+and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -62,4 +56,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
