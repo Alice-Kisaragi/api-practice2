@@ -7,12 +7,24 @@
 
 
 ### ~~~ 大学について ~~~
-大学名：開志専門職大学 
+大学名  
+**開志専門職大学**
+
+学部
+- 事業創造学部
+- 情報学部
+- アニメ・マンガ学部
+
+場所
+- 紫竹山キャンパス（事業創造学部)：新潟市中央区紫竹山6-3-5
+- 米山キャンパス（情報学部）：新潟市中央区米山3-1-53
+- 古町ルフルキャンパス（アニメ・マンガ学部）：新潟市中央区古町7-1010
+
+
 SNS
 - Twitter：https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 - HP：https://kaishi-pu.ac.jp
-- d
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12589.286436520737!2d139.0454626!3d37.9229165!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe443a08c19587fa7!2z6ZaL5b-X5bCC6ZaA6IG35aSn5a2mIOWPpOeUuuODq-ODleODq-OCreODo-ODs-ODkeOCuQ!5e0!3m2!1sja!2sjp!4v1644592490201!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+- YouTube：https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A
 
 
 
