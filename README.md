@@ -3,9 +3,12 @@
 ## **荒川 直樹  (あらかわ なおき)**
 ### ~~~ Profile ~~~
 - 生年月日：20001年10月15日
+- 出身地：茨城県
 - 所属：開志専門職大学 情報学部
 - 得意分野：数学、化学、プログラミング
-- 趣味：読書、ゲーム
+- 趣味：読書(漫画、小説)、ゲーム(FPS、Minecraft etc.)、アニメ、YouTube
+- 好きなもの：紅茶、お菓子、
+- 苦手なもの：野菜、炭酸、辛いもの
 
 
 ### ~~~ University ~~~
@@ -25,8 +28,8 @@
 
 
 SNS
-- [Twitter](https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [HP](https://kaishi-pu.ac.jp)
+- [Twitter](https://twitter.com/kaishi_pu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [YouTube](https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A)
 
 
